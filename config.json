@@ -1,0 +1,13 @@
+﻿{
+    "smtpOptions": {
+     "host": "smtp.gmail.com",
+     "port": 465,
+     "secure":true,
+     "auth": {
+       "type": "OAuth2",
+       "user": "support@icolony.in",
+       "serviceClient": "111603622052937163591",
+       "privateKey" : "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCSlYM3VqlcTrID\nzOyaWJMhDR/DsZZJqvJK6bDCYKhZ8OX8QkBx3grmiHykVBH7xz+Jp216avuUxK6q\ng43qG6WQvUQr3p4cNaLd7+Y17zFx8Dua+spb6/BKqzT1wWOvd3RwgtmkSeUYD4ng\nz2hvP6b81P1mtcAo2AdixfelkBwBPV1oAtSMMw9M5OZqKre0mSTFdo/36roLWqJZ\n71T5PRyRV5PGd6f+CM6uDJKtcMN96DHXXdkZbEUsNx16m4odIK5/rHV+u9aM0l5h\nvrse4ol1FqJS3VIPHvOSWeNU+hn+oDcM8HzmxeKWHzBjVoQbQt06HkUMP0AiYVIo\n0HzN3vMXAgMBAAECggEADtFgZ1qyWit2YV342Q11KhUqjdzI5X+LaLlA7hVZT2ZD\nyYFlBF2+2lkXyIDbJImaya6MKaDg98P+KCyOTwkmboBDgO/LKezeHvNeYTth0zPG\nwr7xb+Nk8hdmjiVTj2xS8AC6QZpat1jyxjARTZWwqsRZLWXYHAjijkCW7TypKBLF\nyeeDapui2Zpy3i7uM64CT7PtMLPMZSb1kHGjhB+Eq0T/KOm6Q0JU8jwCzhHAiWAg\nB88td34tLu0gbZmm9FvNUK5ysR9Af9z1HPE1JjrgDh6ZtpdOENBCOdU0WNUbf9DS\nKi3ET+fM4NrjW/cy8KEmnv/puZKD3S8FeEO1+1CrmQKBgQDJQSzx1QywNB9A6Ila\nC4243WsEl/eFWd+9BVjR/s4o35tkV3t+TPN0BZxp5P/0vuvGsHUy4zHdv3kACSC3\n3T6CE5iFrzpGOF07JUqiRq1itzki4cXotiU0NpSPbb7S2cO8tvQm01+XO30gMCXH\nxOEk24ugizWlYzifYv+8TvAW7QKBgQC6dTo5p3WbhdhyW/ZwiE6ek5qtPTY02Ymh\nEu2cc8Q0AH/Za8g4zRNWOx95bLkLNw7pgyNVxd9Wpn/tWFwUcSkrq1faptGa3+Wp\nopv4t3BM62/W9RcTtqFLqYofO8L5XJHmiDjoOwqbPUZICueDgJ0GdUX9DTg6WQit\ni4l8y37NkwKBgQC5fFpiIMvq8n8Doc5FsXRTN69UsoMs4mJ1oiH0mXWE8mITnxVw\nmJehDTLV3nuRJQ3FOAksd30UNU7eG4uOKllcJZdjTtbUtUooIvygh6dx3hDI93Ei\nRA4SC2PstWc0igP/QFfSGOp3RhrSuc14Sxp+j+Ime2dcIRCkxeeRtOdPGQKBgCCA\njsW+CyIxEqncnfi/yfSahjvsj6ZmxTbutbyv8WOfMqoTv7MnDFfbtoDUEu2Bi3fp\nBB/Pfj78hxA4dtSZZTPXiljy+1aj8MTBM68HSuwdnkE6N+uXykYGJ62KHVKacFRf\nKoxQvmiRJc8pF3I02SpnBuw1gbeqDXky+aRnVJNBAoGAG3oX9QdXaiuzIOmE/GN0\n/3eTlSPkZdjn3HPsbjk7vaLGD2uqSXB76ev8e+AUqtCybAv2ZRTk3O9s2CxPGLQc\noYz6lG+tQF8KayHfARynRSgNDq4tjMY0ES9k8GB+LWxPV39UE2tPTvAs0FgwrIdo\nmJZ59f1Z8XyHa3R5QhRQZ5g=\n-----END PRIVATE KEY-----\n"
+     }
+   }
+ }
