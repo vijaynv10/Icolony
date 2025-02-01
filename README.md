@@ -27,16 +27,12 @@ Icolony/
 │
 ├── src/                    # Main source code
 │   ├── config/              # Configuration files (e.g., database, environment)
-│   ├── services/            # Individual services (e.g., subscription, delivery)
-│   │   ├── subscription/    # Subscription management service
-│   │   ├── delivery/        # Delivery management service
-│   │   ├── invoicing/       # Invoicing management service
-│   │   ├── inventory/       # Inventory management service
-│   │   └── order/           # Order management service
-│   ├── controllers/         # Request handlers for API endpoints
-│   ├── models/              # MongoDB models for database interaction
-│   ├── routes/              # API routes for handling different services
-│   ├── utils/               # Utility functions (e.g., logging, validation)
-│   ├── middlewares/         # Express middlewares (e.g., authentication)
+│   ├── accounts/        # User accounts and subscription management service
+│   ├── delivery/        # Delivery management service
+│   ├── products/        # Inventory management and product management service
+│   ├── ordermanagement/ # Order management service
+│   ├── requests/        # Service requests management
+│   ├── helpers/               # Utility functions (e.g., logging, validation)
+│   ├── _middleware/         # Express middlewares (e.g., authentication)
 │   └── app.js               # Main entry point for the application
 
